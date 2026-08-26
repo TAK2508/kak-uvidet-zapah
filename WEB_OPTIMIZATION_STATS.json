@@ -1,0 +1,20 @@
+{
+  "original_total_bytes": 22030871,
+  "new_total_bytes": 15681903,
+  "unique_images": 288,
+  "asset_total_bytes": 14287002,
+  "html_sizes": {
+    "index.html": 49856,
+    "halls/hall1.html": 34573,
+    "halls/hall10.html": 21814,
+    "halls/hall2.html": 32145,
+    "halls/hall3.html": 135299,
+    "halls/hall4.html": 40998,
+    "halls/hall5.html": 38417,
+    "halls/hall6.html": 61645,
+    "halls/hall7.html": 67866,
+    "halls/hall8.html": 39125,
+    "halls/hall9.html": 46537
+  },
+  "duplicates_eliminated_occurrences": 0
+}
